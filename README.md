@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Analyst
 ------------
 
-* 🌍  I'm based in Moscow
+* 🌍  Based in Moscow
 * ✉️  You can contact me at [alexmaksimov1616@gmail.com](mailto:alexmaksimov1616@gmail.com)
 
 ### Skills
